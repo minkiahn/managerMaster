@@ -5,7 +5,7 @@
         <b-col sm="12" md="12" lg="12" xl="6">
           <b-card bg-variant="white" style="height:740px;">
             <b-card-header style="background">
-              <h3>Match Schedule</h3>
+              <h3>Match Schedule!</h3>
             </b-card-header>
             <b-card-body>
               <div class='right button-margin'>
