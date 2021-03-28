@@ -1,7 +1,6 @@
 ## git으로 관리할때 무시할 파일
 #springboot파일
 java
-resources
 
 # 기본 디렉터리 혹은 파일
 .DS_Store
